@@ -25,4 +25,10 @@
         android:text="Aziz Maulana"
         android:padding="26dp"
         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bayu"
+        android:padding="26dp"
+        />
 </LinearLayout>

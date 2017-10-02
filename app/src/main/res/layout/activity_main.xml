@@ -13,4 +13,10 @@
         android:text="Hello World!"
         android:padding="26dp"
         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ragil Satrio"
+        android:padding="26dp"
+        />
 </LinearLayout>
